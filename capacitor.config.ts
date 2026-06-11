@@ -4,7 +4,6 @@ const config: CapacitorConfig = {
   appId: 'com.campusloop.app',
   appName: 'Campus Loop',
   webDir: 'out',
-  bundledWebRuntime: false,
   server: {
     // For development with live reload — remove for production build
     // url: 'http://YOUR_LOCAL_IP:3000',
